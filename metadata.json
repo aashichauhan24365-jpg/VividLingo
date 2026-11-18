@@ -1,0 +1,6 @@
+{
+  "name": "VividLingo",
+  "description": "Vibrant gamified language learning app featuring tactile 3D extruded buttons, serpentine learning paths, interactive word bank drills, streaks, and instant audio feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
